@@ -1,0 +1,28 @@
+{
+  "mods": [
+    {
+      "name": "Intreeg's More Resources",
+      "author": "Intreeg",
+      "version": "1.4.3",
+      "compatibility": "w107",
+      "description": "This mod increases the resources rendered from refinement reducing the need to spelunk more than a few times. See details in the README",
+      "files": {
+        "pak": "https://github.com/TheOringalIntreeg/Icarus-Mods/blob/dc8f2d7aa098b412c0e346a3bf93f5d9012b79ba/Intreeg's_More_Resources.pak"
+      },
+      "imageURL": "https://github.com/TheOringalIntreeg/Icarus-Mods/blob/3643faff05521022c67c8fe5c8311dd7e240a7af/Intreeg's_More_Resources.png",
+      "readmeURL": "https://github.com/TheOringalIntreeg/Icarus-Mods/blob/0a76e0b1574bdc68526e02311fae7b1972ade7dc/README.md"
+    },
+    {
+      "name": "Intreeg's 2XP",
+      "author": "Intreeg",
+      "version": "1.0",
+      "compatibility": "w107",
+      "description": "This mod doubles the experience points you earn from actions that usually grant experience in Icarus.",
+      "files": {
+        "pak": "https://github.com/TheOringalIntreeg/Icarus-Mods/blob/62ab51ce0440479dc2cf54def85519d5a311da93/Intreeg's_2XP.pak"
+      },
+      "imageURL": "https://github.com/TheOringalIntreeg/Icarus-Mods/blob/bf6bc0885749898ac16920063cfb23e8c8c5e891/Intreeg's_2XP.png",
+      "readmeURL": "https://github.com/TheOringalIntreeg/Icarus-Mods/blob/0a76e0b1574bdc68526e02311fae7b1972ade7dc/README.md"
+    }
+  ]
+}
