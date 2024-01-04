@@ -7,7 +7,8 @@
       "compatibility": "w107",
       "description": "This mod increases the resources rendered from refinement reducing the need to spelunk more than a few times. See details in the README",
       "files": {
-        "pak": "https://github.com/TheOringalIntreeg/Icarus_Mods/blob/baf197284887f7bb95aaf1282eae132617bfefc5/Intreeg's_More_Resources.pak"
+        "pak": "https://github.com/TheOringalIntreeg/Icarus_Mods/blob/baf197284887f7bb95aaf1282eae132617bfefc5/Intreeg's_More_Resources.pak",
+        "exmodz": ""
       },
       "readmeURL": "https://github.com/TheOringalIntreeg/Icarus_Mods/blob/c81ec63029e945e5eed619aee5fffd520ac9a4fc/README.md"
     },
