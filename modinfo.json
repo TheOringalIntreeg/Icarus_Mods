@@ -31,7 +31,7 @@
       "compatibility": "w109",
       "description": "Quadruples experience earned.",
       "files": {
-        "pak": "",
+        "pak": "https://github.com/TheOringalIntreeg/Icarus_Mods/blob/55e20e9a6ef361dd1f073665d6b5c94fb3bc6e3f/Intreeg's%204XP.pak",
         "exmodz": "https://github.com/TheOringalIntreeg/Icarus_Mods/blob/fcff3331fcec2d2d74c9fe7eb85c25c6daf944c1/Intreeg's%204XP.pak.EXMODZ"
       }
     }
