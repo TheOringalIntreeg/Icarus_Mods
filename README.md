@@ -1,6 +1,6 @@
 INTREEG'S MORE RESOURCES
 
-This mod increases the resources rendered from refinement reducing the need to spelunk more than a few times.
+This mod increases the resources rendered from refinement reducing the need to spelunk more than a few times. All DLCs required.
 	
 	RESOURCE OUTPUTS
 	
