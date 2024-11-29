@@ -4,7 +4,7 @@
       "name": "Intreeg's More Resources",
       "author": "Intreeg",
       "version": "1.5.0",
-      "compatibility": "w107",
+      "compatibility": "w156",
       "description": "This mod increases the resources rendered from refinement reducing the need to spelunk more than a few times. Requires all DLC. See details in the README",
       "files": {
         "pak": "https://github.com/TheOringalIntreeg/Icarus_Mods/blob/baf197284887f7bb95aaf1282eae132617bfefc5/Intreeg's_More_Resources.pak",
