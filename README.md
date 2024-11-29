@@ -9,14 +9,10 @@ This mod increases the resources rendered from refinement reducing the need to s
 	1 Gold Ore -> 1 Gold Ingot
 	1 Titanium Ore -> 1 Titanium Ingot
 	1 Platinum Ore -> 1 Platinum Ingot
-	1 Silica -> 5 Glass
-	1 Obsidian -> 1 Shaped Obsidian
-	1 Frozen Ore -> 10 of whatever randomly is output
-	Steel Bloom craft output -> 6
+	1 Silica -> 10 Glass
+	Steel Bloom craft output -> 10
 	1 Bauxite Ore -> 2 Aluminum
-	Composite Paste now requires ingots
-	10X's Concrete Mix, Scoria, Clay Bricks, Composites, and Electronics recipe output
-	1/3s Titanium Plate resource requirements
+	10X's Concrete Mix, Composites, and Electronics recipe output
 
 INTREEG's 4XP
 
