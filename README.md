@@ -18,7 +18,7 @@ This mod increases the resources rendered from refinement reducing the need to s
 	10X's Concrete Mix, Scoria, Clay Bricks, Composites, and Electronics recipe output
 	1/3s Titanium Plate resource requirements
 
-INTREEG's 2XP
+INTREEG's 4XP
 
 Does what it says on the tin.
 
